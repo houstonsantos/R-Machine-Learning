@@ -6,6 +6,9 @@ library(arulesViz)
 
 # Carregando base de dados - Transacoes2.txt
 transacoes = read.transactions(file.choose(), format = 'basket', sep = ',')
+
+# Analisando base
+summary(transacoes)
 View(transacoes)
 inspect(transacoes)
 dim(transacoes)

@@ -4,9 +4,10 @@
 library(arules)
 library(arulesViz)
 
-# Carregando base de dados - Transacoes.txt
+# Carregando base de dados - Transacoes1.txt
 transacoes = read.transactions(file.choose(), format = 'basket', sep = ',')
-transacoes
+
+# Analisando base
 summary(transacoes)
 View(transacoes)
 inspect(transacoes)

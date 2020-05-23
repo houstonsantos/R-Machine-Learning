@@ -54,9 +54,9 @@ previsao
 # Plotando a previsão 
 plot(previsao)
 
-#
+# Usando Arima para melhorar previsão
 arima = auto.arima(AirPassengers)
 arima
-previsao2 = forecast(arima, h = 12)
-previsao2
-plot(previsao2)
+previsao = forecast(arima, h = 12)
+previsao
+plot(previsao)

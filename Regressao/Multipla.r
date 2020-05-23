@@ -3,6 +3,7 @@
 # Analisando base
 colnames(mtcars)
 dim(mtcars)
+head(mtcars)
 
 # Calculando correlação
 cor(mtcars[1:4])

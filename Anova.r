@@ -1,6 +1,6 @@
 # Análise de variança - ANOVA
 
-# Carregando base de dados
+# Carregando base de dados -  Anova.csv
 base = read.csv2(file.choose(), sep = ';', header = T)
 View(base)
 

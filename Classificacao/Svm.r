@@ -3,7 +3,7 @@
 # Carregando bibliotecas
 library(e1071)
 
-# Carregando base de dados
+# Carregando base de dados - Credit.csv
 credito = read.csv2(file.choose(), sep = ',', header = T)
 View(credito)
 dim(credito)

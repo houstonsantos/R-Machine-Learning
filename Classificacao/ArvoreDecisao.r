@@ -4,7 +4,7 @@
 library(rpart)
 library(party)
 
-# Carregando base de dados
+# Carregando base de dados - Credit.csv
 credito = read.csv2(file.choose(), se = ',', header = T)
 View(credito)
 dim(credito)
