@@ -17,12 +17,19 @@ Neste repositório compartilho minhas experiências no inicio dos estudos sobre 
 > #### Classificação
 > - Adaboost
 > - Árvore de Decisão
-> - Baseado em Instâcias
+> - Baseado em Instância
 > - Naive Bayes
 > - Random Forest
 > - Seleção de Atributos
 > - SVM
 > 
+> #### Categorical Encoding
+> - Label Encoding
+> - One-Hot Encoding
+> - Feature Scaling
+>   - Padronização
+>   - Normalização
+>
 > #### Distribuição
 > - Binomial
 > - Normal
@@ -40,6 +47,7 @@ Neste repositório compartilho minhas experiências no inicio dos estudos sobre 
 > #### Grafos
 > 
 > #### Mineração de Texto
+> - Nuvem de Palavras
 > 
 > #### Redes Nerais
 > - Deep Learning
@@ -48,8 +56,11 @@ Neste repositório compartilho minhas experiências no inicio dos estudos sobre 
 > #### Regressão
 > - Simples
 > - Multipla
-> - Logistica
+> - Logística
 > 
 > #### Séries Temporais
 > 
 > #### Estatística
+> - Anova
+> - Amostra
+> - QuiQuadrado
