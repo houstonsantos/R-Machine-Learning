@@ -4,32 +4,52 @@
 
 Neste repositório compartilho minhas experiências no inicio dos estudos sobre ***Data Science e Machine Learning*** com uso da _linguagem R_, abordando diversas técnicas e algoritimos, conhecimentos adquiridos através da especialização na ***UPE, Livros, Curos online e muita leitura***.
 
-- Agrupamento
-- Associação
-- Classificação
-- Distribuição
-- Gráficos
-- Grafos
-- Mineração de Texto
-- Redes Nerais
-- Regressão
-- Séries Temporais
-- Estatística
-
 > #### Agrupamento
 > - DBScan
 > - Fuzzy C-means
-> - Hiérarquico
+> - Hierárquico
 > - K-means
 > - K-medoids 
 > 
 > #### Associação
-> Classificação
-> Distribuição
-> Gráficos
-> Grafos
-> Mineração de Texto
-> Redes Nerais
-> Regressão
-> Séries Temporais
-> Estatística
+> - Apriori
+> 
+> #### Classificação
+> - Adaboost
+> - Árvore de Decisão
+> - Baseado em Instâcias
+> - Naive Bayes
+> - Random Forest
+> - Seleção de Atributos
+> - SVM
+> 
+> #### Distribuição
+> - Binomial
+> - Normal
+> - Poisson
+> - T Student
+> 
+> #### Gráficos
+> - 3D
+> - Barras
+> - Boxplot
+> - Dispersão
+> - Histograma
+> - Pizza
+> 
+> #### Grafos
+> 
+> #### Mineração de Texto
+> 
+> #### Redes Nerais
+> - Deep Learning
+> - Multilayer Perceptron
+> 
+> #### Regressão
+> - Simples
+> - Multipla
+> - Logistica
+> 
+> #### Séries Temporais
+> 
+> #### Estatística
